@@ -2,11 +2,10 @@
 
 ![](http://static.mvlehti.net/uploads/2016/08/tuksu-bart-simsonina.jpg)
 
-| Turhuuden | Multihuipentuma |
-|:----------|----------------:|
-|Täää kaikki|On aika turhaa :D|
-|Tuksu ei oo|ees relevantti enää|
-|Voihan ebin| jallupullo|
+Turhuuden | Multihuipentuma 
+----------|----------------
+Tuksu ei oo|ees relevantti enää
+Voihan ebin| jallupullo
 
 ###Testi
 
