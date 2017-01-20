@@ -1,4 +1,4 @@
-# Ohjelmistosuunnittelu ja testaus repo
+# Tuksu repo :D
 
 ![](http://static.mvlehti.net/uploads/2016/08/tuksu-bart-simsonina.jpg)
 
