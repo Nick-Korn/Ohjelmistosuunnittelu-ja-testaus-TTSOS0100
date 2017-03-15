@@ -1,4 +1,10 @@
 
-#sururu
+# Home-page
 
-ebuz.rar
+ 
+Ohjelmistosuunnittelun harjoitustyö.
+
+## AMK OPN arviointityökalu
+
+Työntilaaja Karo Saharinen
+
