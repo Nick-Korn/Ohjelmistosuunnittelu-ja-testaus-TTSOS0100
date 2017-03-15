@@ -1,5 +1,5 @@
 
-# Home-page
+# Homepage
 
  
 Ohjelmistosuunnittelun harjoitustyö.
