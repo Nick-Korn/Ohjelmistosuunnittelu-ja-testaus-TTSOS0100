@@ -1,3 +1,3 @@
 
 # 15.3.2017 OP MOVIENIGHT
-[Linkki wikiin](wiki)
+[Linkki wikiin](Ohjelmistosuunnittelu-ja-testaus-TTSOS0100/wiki)
